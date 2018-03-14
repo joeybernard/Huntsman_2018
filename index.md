@@ -752,30 +752,45 @@ Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools
     </div>
   </div>
 </div> {% comment %} End of 'OpenRefine' section. {% endcomment %}
-<!--
-{% comment %}
-<div id="vm">
-  <h3>Virtual Machine</h3>
 
-  <p>
-    Some instructors prefer to have learners use a virtual machine (VM)
-    rather than install software on their own computers.  If your
-    instructors have chosen to do this, please:
-  </p>
-  <ol>
-    <li>
-      Install <a href="https://www.virtualbox.org/">VirtualBox</a>.
-    </li>
-    <li>
-      Download our <a href="{{site.swc_vm}}">VM image</a>.
-      <strong>Warning:</strong> this file is 1.7 GByte, so please
-      download it <em>before</em> coming to your workshop.
-    </li>
-    <li>
-      Load the VM into VirtualBox by selecting "Import Appliance" and
-      loading the <code>.ova</code> file.
-    </li>
-  </ol>
+
+<div id="vm">
+<p>To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, OpenOffice.org, or other programs. Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same.</p>
+
+<p>For this lesson, if you don’t have a spreadsheet program already, you can use LibreOffice. It’s a free, open source spreadsheet program.</p>
+
+<h4 id="windows">Windows</h4>
+
+<ul>
+  <li>Download the Installer
+    <ul>
+      <li>Install LibreOffice by going to <a href="https://www.libreoffice.org/download/libreoffice-fresh/">the installation page</a>. The version for Windows should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</li>
+    </ul>
+  </li>
+  <li>Install LibreOffice</li>
+  <li>Once the installer is downloaded, double click on it and LibreOffice should install.</li>
+</ul>
+
+<h4 id="mac-os-x">Mac OS X</h4>
+<ul>
+  <li>Download the Installer
+    <ul>
+      <li>Install LibreOffice by going to <a href="https://www.libreoffice.org/download/libreoffice-fresh/">the installation page</a>. The version for Mac should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</li>
+    </ul>
+  </li>
+  <li>Install LibreOffice</li>
+  <li>Once the installer is downloaded, double click on it and LibreOffice should install.</li>
+</ul>
+
+<h4 id="linux">Linux</h4>
+<ul>
+  <li>Download the Installer
+    <ul>
+      <li>Install LibreOffice by going to <a href="https://www.libreoffice.org/download/libreoffice-fresh/">the installation page</a>. The version for Linux should automatically be selected. Click Download Version X.X.X (whichever is the most recent version). You will go to a page that asks about a donation, but you don’t need to make one. Your download should begin automatically.</li>
+    </ul>
+  </li>
+  <li>Install LibreOffice</li>
+  <li>Once the installer is downloaded, double click on it and LibreOffice should install.</li>
+</ul>
+
 </div>
-{% endcomment %}
--->
