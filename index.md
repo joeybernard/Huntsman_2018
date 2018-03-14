@@ -755,6 +755,7 @@ Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools
 
 
 <div id="vm">
+<h3>Spreadsheet Installation</h3>
 <p>To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, OpenOffice.org, or other programs. Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same.</p>
 
 <p>For this lesson, if you don’t have a spreadsheet program already, you can use LibreOffice. It’s a free, open source spreadsheet program.</p>
