@@ -704,6 +704,29 @@ Data Carpentry’s aim is to teach researchers basic concepts, skills, and tools
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
+
+<h3>SQL for Ecology: Setup</h3>
+
+  <h4 id="data">Data</h4>
+    <p><strong>Download</strong> this data to your computer: <a href="http://dx.doi.org/10.6084/m9.figshare.1314459">http://dx.doi.org/10.6084/m9.figshare.1314459</a>. Click on <strong>Download all</strong> to download the zip file. Unzip it to a location that you can easily find on your computer.</p>
+
+  <h4 id="about-the-data">About the data</h4>
+    <p>The data for this lesson is a part of the Data Carpentry Ecology workshop.
+    It is a teaching version of the Portal Database data.</p>
+
+  <p>The data for this lesson and the workshop are in the
+  <a href="https://figshare.com/articles/Portal_Project_Teaching_Database/1314459">Portal Project Teaching Database</a>
+  available on FigShare, with a CC-BY license
+  available for reuse.</p>
+
+  <h4 id="software">Software</h4>
+    <p>SQL is a specialized programming language used with databases.  We
+    use a simple database manager called <a href="http://www.sqlite.org/">SQLite</a>
+    in our lessons.</p>
+
+  <p>We will use the <a href="http://sqlitebrowser.org/">DB Browser for SQLite</a> program,
+  which is available for all major platforms.</p>
+
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
